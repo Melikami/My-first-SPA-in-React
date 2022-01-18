@@ -9,7 +9,7 @@ function Projects() {
       <img src={header} class="headerPhoto" alt="Header" />
       <Navbar></Navbar>
       <div className="containerPage">
-        <h1>Projects</h1>
+        <h2>Projects</h2>
       </div>
     </section>
   );
