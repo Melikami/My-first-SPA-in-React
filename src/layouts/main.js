@@ -6,7 +6,7 @@ import Projects from '../components/projects/Projects';
 import Profile from '../user/profile';
 import Github from '../components/github/github';
 import Cv from "../components/cv/cv";
-
+import YoutubeEmbed from "../components/youtube/youtube";
 
 function Main() {
     return (

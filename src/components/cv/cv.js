@@ -1,4 +1,5 @@
 import Navbar from "../navbar/navbar";
+import YoutubeEmbed from "../youtube/youtube";
 
 const header = require("../../img/headcv.jpg");
 
@@ -88,7 +89,8 @@ function CV() {
             <div class="cvcontent">
               <h4>Frontend programmer: 2021</h4>
               <p>
-                Two year vocational university course at school KYH to become a frontend developer.
+                Two year vocational university course at school KYH to become a
+                frontend developer.
               </p>
               <br />
             </div>
@@ -136,6 +138,18 @@ function CV() {
               <br />
             </div>
           </div>
+        </div>
+        <div>
+          <br />
+          <h4>
+            Watch our video that won Europe's highest PR-prize: An European
+            Excellence Award in 2014
+          </h4>
+          <YoutubeEmbed embedId="CAkdWUjdJyA" />
+          <br />
+          <br />
+          <br />
+          <br />
         </div>
       </div>
     </section>
