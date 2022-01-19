@@ -21,7 +21,7 @@ function Contact() {
           <h2>Contact</h2>
           <p>
             Do you want to come in contact with me? You can find my contact
-            information in the links bellow or just write to my email:
+            information in the links below or just write to my email:
             meli86akerman(a)gmail.com
           </p>
         </div>
