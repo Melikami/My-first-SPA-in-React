@@ -2,6 +2,7 @@ import { useParams, useLocation } from "react-router-dom";
 import React from "react";
 import { render } from "@testing-library/react";
 import Navbar from "../components/navbar/navbar";
+import { Link } from "react-router-dom";
 
 
 const Profile = () => {
@@ -44,10 +45,12 @@ const Profile = () => {
                 tool box to start my freelancing. I've mainly worked with
                 e-commerce as a copywriter and growth hacker, but I've also done
                 a few high end jobs marketing the Swedish capital Stockholm
-                internationally to talents and business. One of our videos won Europe's highest PR prize, a European Excellence Award. Check it out <a
-              href="https://youtu.be/CAkdWUjdJyA"
-              target="_blank"
-            >HERE.</a>
+                internationally to talents and business. One of our videos won
+                Europe's highest PR prize, a European Excellence Award. Check it
+                out{" "}
+                <a href="https://youtu.be/CAkdWUjdJyA" target="_blank">
+                  HERE.
+                </a>
               </p>
               <p>
                 This is my first Single Page Application. I hope you like it.
@@ -57,7 +60,10 @@ const Profile = () => {
           <div class="col-2">
             <img src={profilePhoto} class="profile" alt="Meli Åkerman" />
             <br />
-            <button class="button">Read my CV</button>
+            <br />
+            <Link to="../cv" className="button">
+              Read my CV
+            </Link>
           </div>
           <div class="row">
             <div class="col-2"></div>
