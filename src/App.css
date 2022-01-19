@@ -78,7 +78,7 @@ p {
 .profile {
   max-width: 300px;
   margin-top: 25px;
-  border: 10px solid #475dcd;
+  border: 10px solid #14428F;
   border-radius: 10%;
 }
 
@@ -199,7 +199,7 @@ ul li {
 }
 
 .button {
-  background-color: #475dcd;
+  background-color: #14428F;
   color: white;
   padding: 15px;
   padding-left: 20px;
