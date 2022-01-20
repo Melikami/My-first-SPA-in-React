@@ -14,7 +14,7 @@ const Profile = () => {
   let { pathname } = useLocation();
 
   const header = require("../img/headprofile.jpg");
-  const profilePhoto = require('../img/profile.jpg');
+  const profilePhoto = require('../img/profilemeli.jpeg');
 
 
   return (
