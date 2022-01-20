@@ -26,7 +26,7 @@ const Profile = () => {
           <div class="col-2">
             <div class="u--fadeInUp">
               <p>
-                My name is Meli Åkerman and I'm here to take over the world. I'm
+                My name is Meli Åkerman and I'm here to take over the world. (Not really but I always wanted to say that.) I'm
                 35 years old and have opted for the crazy cat life. I wrote my
                 bachelor's thesis in journalism in 2013 but chose a traveling
                 lifestyle instead where I could freelance as a copywriter while
