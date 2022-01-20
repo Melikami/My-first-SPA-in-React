@@ -205,6 +205,7 @@ ul li {
   padding-left: 20px;
   padding-right: 20px;
   margin: 5px;
+  margin-left: 10px;
   border-radius: 50px;
   border: none;
   transition-duration: 0.4s;
@@ -246,11 +247,15 @@ h2 {
 .cvcontent {
   max-width: 700px;
   background-color: #fceffc;
+  border: 3px solid black;
+  margin-bottom: 15px;
 }
 
 .cvcontent2 {
   max-width: 700px;
   background-color: #e8f4fd;
+  border: 3px solid black;
+  margin-bottom: 15px;
 }
 
 h4 {
@@ -276,11 +281,11 @@ h4 {
   background-color: #e8f4fd;
 }
 
-hr {
+/* hr {
   width: 5px;
   style: solid;
   background-color: #000;
-}
+} */
 
 .video-responsive {
   overflow: hidden;
