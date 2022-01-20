@@ -1,6 +1,6 @@
 body {
   background-color:rgb(249, 251, 253);
-  font-family: "Roboto", sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 18px;
   font-weight: bold;
   margin: 0;
@@ -62,7 +62,7 @@ h1, p {
 }
 
 p {
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   text-align: justify;
 }
 
