@@ -19,10 +19,10 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/github">Github</Link>
+          <Link to="/cv">CV</Link>
         </li>
         <li>
-          <Link to="/projects">Projects</Link>
+          <Link to="/github">Github</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>

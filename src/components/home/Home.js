@@ -7,6 +7,9 @@ function Home() {
         <Link to="../profile/profile" className="btn">
           MELI
         </Link>
+        <Link to="../cv" className="btn">
+          CV
+        </Link>
         <Link to="../github" className="btn">
           GITHUB
         </Link>

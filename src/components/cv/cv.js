@@ -51,6 +51,15 @@ function CV() {
                 for Stockholm City - The capital of Scandinavia, Stockholm
                 Business Region.
               </p>
+              <ul>
+                See our projects:
+                <li>
+                  <a href="https://youtu.be/lDTgpMb9n88" target="_blank">Stockholm Perspective</a>
+                </li>
+                <li>
+                  <a href="https://youtu.be/NtuFzE2Cu88" target="_blank">Innovat1on</a>
+                </li>
+              </ul>
               <br />
             </div>
             <div class="cvcontent2">
@@ -95,6 +104,13 @@ function CV() {
               <br />
             </div>
             <div class="cvcontent2">
+              <h4>Webbdesigner: 2022</h4>
+              <p>
+                One year long education in digital graphics, design processes, image editing, layout, typography and programming.
+              </p>
+              <br />
+            </div>
+            <div class="cvcontent">
               <h4>Candidate Course in Journalism: 2013</h4>
               <p>
                 At the journalism institution JMK at Stockholm University.
@@ -102,33 +118,33 @@ function CV() {
               </p>
               <br />
             </div>
-            <div class="cvcontent">
+            <div class="cvcontent2">
               <h4>Science of Journalism: 2011 - 2012</h4>
               <p>At the journalism institution JMK at Stockholm University.</p>
               <br />
             </div>
-            <div class="cvcontent2">
+            <div class="cvcontent">
               <h4>Poppius Journalist School: 2010 - 2011</h4>
               <p>Basic course in journalism.</p>
               <p>Editor's course</p>
               <br />
             </div>
-            <div class="cvcontent">
+            <div class="cvcontent2">
               <h4>Creative Writing I: 2012</h4>
               <p>At Högskolan Kristianstad</p>
               <br />
             </div>
-            <div class="cvcontent2">
+            <div class="cvcontent">
               <h4>Academical Writing: 2012</h4>
               <p>Linnéuniversitetet</p>
               <br />
             </div>
-            <div class="cvcontent">
+            <div class="cvcontent2">
               <h4>Openness on the Internet: 2012</h4>
               <p>Umeå Universitet</p>
               <br />
             </div>
-            <div class="cvcontent2">
+            <div class="cvcontent">
               <h4>Candidate of Law: 2007</h4>
               <ul>
                 <li>Legal introductory course</li>

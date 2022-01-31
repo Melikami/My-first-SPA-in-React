@@ -28,11 +28,10 @@ function Github() {
             <div class="u--fadeInUp">
               <h2>JavaScript 2: Group Project</h2>
               <p>
-                Once again I'm the scrum master of the project and it suits me
-                and my slight perfectionism well. I like the daily scrums and
+                Once again I was the scrum master of the project. I like the daily scrums and
                 trying to help out my team mates. For this project we were to
                 build an e-commerce store with javascript functions to add items
-                to cart and make purchases, using json.
+                to cart and make purchases, using json. Sadly I got very sick with covid at the end of the project and my wonderful team mates had to sort it out without me. It was the first time I ever had to rely on someone else professionally and I'm eternally grateful to my team.
               </p>
             </div>
             <br />
@@ -87,8 +86,8 @@ function Github() {
                 In this project I have done the landing page, a product category
                 page where images and text info about the objects in the store
                 were fetched and displayed in HTML both on the product category
-                page and in single product pages. I also did a About page and
-                Contact form. I've done all the HTML, CSS and JS for this
+                page and in single product pages. I also did an About page and
+                Contact form. I've done the HTML, CSS and JS for this
                 project.
               </p>
             </div>

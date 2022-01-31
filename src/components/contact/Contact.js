@@ -1,15 +1,18 @@
 import Navbar from "../navbar/navbar";
 import { Routes, Route } from "react-router-dom";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { SiLinkedin } from 'react-icons/si'
+import { SiFacebook } from "react-icons/si";
+import { SiGithub } from "react-icons/si";
+import { GrMail } from "react-icons/gr";
+
+
 
 const linkedin = require("../../img/linkedin.png");
 const github = require("../../img/github.png");
 const facebook = require("../../img/facebook.png");
 const mail = require("../../img/mail.png");
 const header = require("../../img/headcontact.jpg");
-
-const element = <FontAwesomeIcon icon={faCoffee} />;
+const style = { fontSize: '50px', margin: '10px' }
 
 function Contact() {
   return (
@@ -26,19 +29,19 @@ function Contact() {
           </p>
         </div>
         <a href="mailto:meli86akerman@gmail.com">
-          <img src={mail} class="contact-logos" alt="LinkedIn" />
+          <GrMail style={style} />
         </a>
         <a href="https://github.com/Melikami" target="_blank">
-          <img src={github} class="contact-logos" alt="Github" />
+          <SiGithub style={style} />
         </a>
         <a
           href="https://www.linkedin.com/in/meli-%C3%A5kerman-64138773/"
           target="_blank"
         >
-          <img src={linkedin} class="contact-logos" alt="LinkedIn" />
+          <SiLinkedin style={style} />
         </a>
         <a href="https://www.facebook.com/melikamis/" target="_blank">
-          <img src={facebook} class="contact-logos" alt="Facebook" />
+          <SiFacebook style={style} />
         </a>
       </div>
     </section>
