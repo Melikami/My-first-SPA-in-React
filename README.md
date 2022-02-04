@@ -1,3 +1,9 @@
+Info:
+
+This is my personal portfolio built as a SPA. I've put together components and done the routing and put plenty of time into fixing with the css to get the visual shape that I was after. Sadly I got covid the last week of my project and this halted me from developing anything further, but I'm going to keep developing this project still once this course is done.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
